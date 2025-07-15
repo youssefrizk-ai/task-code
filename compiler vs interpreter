@@ -1,0 +1,9 @@
+compiler vs interpreter:
+#from speed:
+The compiler is faster because it translates the entire code at once, while the interpreter interprets each line and takes more time.
+#from Error:
+Compiler: Detects and reports all errors during the compilation phase before running the program.
+Interpreter: Stops execution when it encounters the first error during interpretation.
+#from Method:
+Compiler: Translates the entire source code into machine code at once before execution (produces an executable file).
+Interpreter: Reads and executes the code line by line during runtime.
